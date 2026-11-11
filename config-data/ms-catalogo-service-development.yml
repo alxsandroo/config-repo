@@ -14,6 +14,6 @@ spring:
     show-sql: true
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://localhost:5432/ms_catalogo
+    url: url: jdbc:postgresql://postgres-db:5432/ms_catalogo
     username: postgres
     password: 123456
